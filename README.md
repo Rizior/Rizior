@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Loïc
-- 👀 I’m programmer studant
-- 🌱 I’m currently learning Lua and C
-- 💞️ I’m looking to collaborate on game developpement
+- 👀 I’m programmer student
 - 📫 How to reach me loich30@gmail.com
 
 <!---
